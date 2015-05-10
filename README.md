@@ -8,5 +8,5 @@ Feel free to comment on my code or make any suggestions. it has been a really am
 
 I look foreward to creating a few more extensions and will post some of the code here for verson control.
 I hadn't been using git for the development of this tool until now beacuse i did it on my work computer(Windows)
-and didn't install git on it. bt now the code is sourced from google drive, i do most of the development at
+and didn't install git on it. but now the code is sourced from google drive, so i do most of the development at
 home on my Mac.
